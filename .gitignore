@@ -1,6 +1,7 @@
 # Other files
-.ilk
-.pdb
+*.ilk
+*.pdb
+*.suo
 
 # Prerequisites
 *.d
