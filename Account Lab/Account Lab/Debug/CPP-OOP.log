@@ -1,3 +1,0 @@
-﻿  Invoice.cpp
-Invoice.obj : error LNK2005: _main already defined in Account.obj
-C:\Users\sng\Documents\GitHub\ECET11-OOP\CPP-OOP\Debug\CPP-OOP.exe : fatal error LNK1169: one or more multiply defined symbols found
