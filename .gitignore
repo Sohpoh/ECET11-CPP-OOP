@@ -2,6 +2,10 @@
 *.ilk
 *.pdb
 *.suo
+*.sdf 
+*.log
+*.lastbuildstate
+*/Debug
 
 # Prerequisites
 *.d
