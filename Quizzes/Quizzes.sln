@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP-Q2 Car Class", "OOP-Q2 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP-Q3 Check Writer", "OOP-Q3 Check Writer Class\OOP-Q3 Check Writer.vcxproj", "{2373E886-C0AD-4702-B0BE-3A6967678B8B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALG-Q2 Missing Number", "ALG-Q2 Missing Number Quiz\Quiz.vcxproj", "{044684DA-2E54-4628-BCFD-B795C281EDF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{2373E886-C0AD-4702-B0BE-3A6967678B8B}.Release|x64.Build.0 = Release|x64
 		{2373E886-C0AD-4702-B0BE-3A6967678B8B}.Release|x86.ActiveCfg = Release|Win32
 		{2373E886-C0AD-4702-B0BE-3A6967678B8B}.Release|x86.Build.0 = Release|Win32
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Debug|x64.ActiveCfg = Debug|x64
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Debug|x64.Build.0 = Debug|x64
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Debug|x86.Build.0 = Debug|Win32
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Release|x64.ActiveCfg = Release|x64
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Release|x64.Build.0 = Release|x64
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Release|x86.ActiveCfg = Release|Win32
+		{044684DA-2E54-4628-BCFD-B795C281EDF6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
