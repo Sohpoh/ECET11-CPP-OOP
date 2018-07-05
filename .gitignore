@@ -5,6 +5,7 @@
 *.sdf 
 *.log
 *.lastbuildstate
+*.tlog
 */Debug
 
 # Prerequisites
@@ -39,3 +40,4 @@
 *.exe
 *.out
 *.app
+*.tlog
